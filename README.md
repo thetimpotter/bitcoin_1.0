@@ -5,6 +5,8 @@ Bitcoin integration/staging tree
 
 https://www.bitcoin.org
 
+---
+
 What is Bitcoin?
 ----------------
 
@@ -14,6 +16,8 @@ with no central authority: managing transactions and issuing money are carried
 out collectively by the network. 
 
 For more information, contact us here on github.
+
+---
 
 Development Path:
 
@@ -28,6 +32,7 @@ Development Path:
 [ ] Reboot network at blockheight 'X'
 
 
+---
 
 Abstract
 
