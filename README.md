@@ -20,8 +20,11 @@ Development Path:
 --------------
 
 [x] Remove temporary 1 mb block size limit
+
 [ ] One time difficulty adjustment
+
 [ ] Final code review
+
 [ ] Reboot network at blockheight 'X'
 
 
